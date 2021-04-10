@@ -19,7 +19,7 @@ Remappable inputs
 Kenney.nl
 https://freesound.org/people/gneube/sounds/315844/ (zombie)
 https://freesound.org/people/ProjectsU012/sounds/341695/ (key)
-https://patrickdearteaga.com/royalty-free-music/ (music: "The Biggest Discovery"
+https://patrickdearteaga.com/royalty-free-music/ (music: "The Biggest Discovery")
 https://cc0textures.com/view?id=Tiles089 (wall material)
 https://cc0textures.com/view?id=Grass001 (ground material)
 
